@@ -10,4 +10,5 @@
 
 - The windows settings has a bunch of tweaks we can disable. There also some advanced tweaks that you can disable that can impact performance. Check them out here:
 
-[[CyOG - Windows Settings]]
+[I'm a relative reference to a repository file](2025-1-2-Cy_s=Revised=Optimization=Guide.md)
+
